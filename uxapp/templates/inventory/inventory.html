@@ -1,0 +1,43 @@
+<!-- Orders Boared Template -->
+{% extends "dashboard.html" %}
+{% block in_dashboard %}
+<section class="orders-boared">
+    <div class="col-md-12">
+        <!-- Start Error Handling Section -->
+        {%include 'error-handle.html'%}
+        <!-- End Error Handling Section -->
+        <div class="container-fluid">
+            <div class="app-card app-card-orders-table shadow-sm mb-5">
+                <div class="app-card-body">
+                    <div class="table-responsive">
+                        <table class="table app-table-hover mb-0 text-left">
+                            <thead>
+                                <tr>
+                                    <th class="cell">#</th>
+                                    <th class="cell">Hostname</th>
+                                    <th class="cell">Model</th>
+                                    <th class="cell">Serial No</th>
+                                    <th class="cell">Status</th>
+                                    <th class="cell"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="cell">1</td>
+                                    <td class="cell"><span class="truncate">EG-A1-F1-P025</span></td>
+                                    <td class="cell">Raymond Atkins</td>
+                                    <td class="cell"><span class="cell-data">11 Oct</span><span class="note">11:18 AM</span></td>
+                                    <td class="cell"><span class="badge bg-success">Online</span></td>
+                                    <td class="cell"><a class="btn-sm app-btn-secondary" href="#">View</a></td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+                    </div><!--//table-responsive-->
+                   
+                </div><!--//app-card-body-->		
+            </div>
+        </div>
+    </div>
+</section>
+{%endblock%}

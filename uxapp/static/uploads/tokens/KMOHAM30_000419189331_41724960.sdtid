@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<TKNBatch>
+    <TKNHeader>
+        <Version>0</Version>
+        <Origin>N/A</Origin>
+        <Dest>N/A</Dest>
+        <Name>N/A</Name>
+        <FirstToken>N/A</FirstToken>
+        <LastToken>N/A</LastToken>
+        <NumTokens>0</NumTokens>
+        <Secret>Yu6bK2+LvX3rHrA2cxLClg==</Secret>
+        <DefBirth>2020/01/28</DefBirth>
+        <DefDeath>2035/12/31</DefDeath>
+        <DefDigits>8</DefDigits>
+        <DefInterval>60</DefInterval>
+        <DefAlg>1</DefAlg>
+        <DefMode>0</DefMode>
+        <DefPrecision>1200</DefPrecision>
+        <DefSmallWin>300</DefSmallWin>
+        <DefMediumWin>600</DefMediumWin>
+        <DefLargeWin>600</DefLargeWin>
+        <DefAddPIN>1</DefAddPIN>
+        <DefLocalPIN>0</DefLocalPIN>
+        <DefCopyProtection>1</DefCopyProtection>
+        <DefPinType>0</DefPinType>
+        <DefKeypad>1</DefKeypad>
+        <DefProtLevel>0</DefProtLevel>
+        <DefRevision>0</DefRevision>
+        <DefTimeDerivedSeeds>1</DefTimeDerivedSeeds>
+        <DefAppDerivedSeeds>0</DefAppDerivedSeeds>
+        <DefFormFactor>20000001</DefFormFactor>
+        <HeaderMAC>Rl/y2rBUi5M7XiuWB5Eg0g==</HeaderMAC>
+    </TKNHeader>
+    <TKN>
+        <SN>000419189331</SN>
+        <Seed>=wQHcA0pnfjptjJXV1xk3Fg==</Seed>
+        <UserFirstName>Karim</UserFirstName>
+        <UserLastName>Mohamed Mahmoud Mohamed</UserLastName>
+        <UserLogin>KMOHAM30</UserLogin>
+        <PinType>0</PinType>
+        <TokenAttributes>
+           <DeviceTypeVersion>0</DeviceTypeVersion>
+           <DeviceType>PC Software Token V3.0 or later</DeviceType>
+           <DeviceTypeFamily>Generic AES 128</DeviceTypeFamily>
+        </TokenAttributes>
+        <TokenMAC>J9c8o5eKTma6+lbTVumrOw==</TokenMAC>
+    </TKN>
+    <TKNTrailer>
+        <BatchSignature>KGEgYvwDPfvCs+cqGf/KOG9s/o5gSKRxbchgo6Fo/xnRbPBWr7vTbmDVUTEwWq8LhN92ONF7N3VgVQNTShpxEKLtl5Xs5fwgUVnDlPyTug+GMMP6fCl3gQ+/7bFmfr/MMTUae/vdjmSkSVrz11DFAgw3yfl7/JMPpLNEc4pxT2U=</BatchSignature>
+        <BatchCertificate>MIICeTCCAWGgAwIBAgIQM0NFNTU4NTMzMDlGODEzMDANBgkqhkiG9w0BAQQFADBBMT8wPQYDVQQDEzZTZWN1cml0eSBEeW5hbWljcyBUZWNobm9sb2dpZXMsIEluYy4gUHJpbWFyeSBDQSBSb290IDEwHhcNMDIwNTE3MTkyMTU1WhcNMjIwNTEyMTkyMTU1WjA0MTIwMAYDVQQDEylTZWN1cml0eSBEeW5hbWljcyBUZWNobm9sb2dpZXMgQUNFL1NlcnZlcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1np1DIf3HOHAK2ahcRzZCJsqIC1QMEqtsdanKSEn5CGtLCdLv9LbLUYo6cQxKSJtwvigpeDgBAb/UYcUNXy/7dY7rA5WpYlsaA9h5C9qzPMBHxVGSIe5k61uUbAwdFhCMfLh776wR//VZ7cuypo5d3cCbvgHGwqw4ZuECbKvONMCAwEAATANBgkqhkiG9w0BAQQFAAOCAQEAq8MMJs1SczwpfcZqn9loM+2RhFmN1IZiXyevz1VvGD9GUrlLalm/Et989zR/dVhciGXmAAxYnV/MoZmshjXozmJgjRmfqqHLS46UJ9nLZ2BuEVcrHnn6f9meIjeMWm+Dvh+8Vi9KJOLozYbDoaUMm+5F7ywKsUuBPRSJ1ykGJG6dOCBZlJGmM3kbZ54lRAK2TYcu2JM21i7BKdeE9xItyabJzEk3QCsX0erY7h3V//okIfKWLh8LieoWbV4+VtrQEoiUwyqdYswwgMOyRiKuGTkk3DhHdoqhG8SqHSxkPto42hEnpOx9j2rqcsOWosvNyfm9nwkqJfhuJClLwOzw5Q==</BatchCertificate>
+</TKNTrailer>
+</TKNBatch>

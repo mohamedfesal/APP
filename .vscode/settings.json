@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/97e3643d-0f08-4afc-961b-05cb7f7bde9a/resourceGroups/UXCenters/providers/Microsoft.Web/sites/UXCentersApp",
+    "appService.deploySubpath": "."
+}
